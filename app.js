@@ -150,6 +150,7 @@ function create_package_tables(packages) {
 
 		pkg_licences
 			.get(lic)
+			.sort((a, b) => a.id.localeCompare(b.id))
 			.map(pkg => [
 				pkg.id,
 				pkg.desc,
