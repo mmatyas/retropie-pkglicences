@@ -73,7 +73,7 @@ exp;lr-desmume2015;NDS emu - DESMUME (2015 version);GPL2 https://raw.githubuserc
 exp;lr-desmume;NDS emu - DESMUME;GPL2 https://raw.githubusercontent.com/libretro/desmume/master/desmume/COPYING;
 exp;lr-dinothawr;Dinothawr - standalone libretro puzzle game;NONCOM https://raw.githubusercontent.com/libretro/Dinothawr/master/LICENSE;
 exp;lr-dolphin;Gamecube/Wii emulator - Dolphin port for libretro;GPL2 https://raw.githubusercontent.com/libretro/dolphin/master/license.txt;
-exp;lr-dosbox;DOS emulator;https://raw.githubusercontent.com/libretro/dosbox-libretro/master/COPYING;
+exp;lr-dosbox;DOS emulator;GPL2 https://raw.githubusercontent.com/libretro/dosbox-libretro/master/COPYING;
 opt;lr-fbalpha2012;Arcade emu - Final Burn Alpha (0.2.97.30) port for libretro;NONCOM https://raw.githubusercontent.com/libretro/fbalpha2012/master/docs/license.txt;
 main;lr-fbneo;Arcade emu - FinalBurn Neo v0.2.97.44 (WIP) port for libretro;NONCOM https://raw.githubusercontent.com/libretro/FBNeo/master/src/license.txt;
 main;lr-fceumm;NES emu - FCEUmm port for libretro;GPL2 https://raw.githubusercontent.com/libretro/libretro-fceumm/master/Copying;
