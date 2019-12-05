@@ -1,0 +1,15 @@
+language: minimal
+
+script:
+  - git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git retropie
+  - (cd retropie && ../rpilicences.sh) > packages.csv
+  - (cd retropie && ../rpicommit.sh) > commit.csv
+  - rm -rf retropie *.sh .travis.yml
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  on:
+    branch: master
