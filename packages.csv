@@ -194,7 +194,7 @@ exp;mehstation;mehstation emulator frontend;MIT https://raw.githubusercontent.co
 driver;mkarcadejoystick;Raspberry Pi GPIO Joystick Driver;GPL2 https://raw.githubusercontent.com/recalbox/mk_arcade_joystick_rpi/master/LICENSE;
 exp;mobilegamepad;Mobile Universal Gamepad for RetroPie;GPL3 https://raw.githubusercontent.com/sbidolach/mobile-gamepad/master/LICENSE;
 exp;moonlight;Moonlight Embedded - an open source gamestream client for embedded systems;GPL3 https://raw.githubusercontent.com/irtimmer/moonlight-embedded/master/LICENSE;
-exp;pegasus-fe;Pegasus: A cross platform, customizable graphical frontend (latest alpha release);GPL3+ https://raw.githubusercontent.com/mmatyas/pegasus-frontend/master/LICENSE.md;
+exp;pegasus-fe;Pegasus: A cross platform, customizable graphical frontend (latest alpha release);GPL3 https://raw.githubusercontent.com/mmatyas/pegasus-frontend/master/LICENSE.md;
 driver;powerblock;PowerBlock Driver;;
 driver;ps3controller;PS3 controller driver and pair via sixad;GPL2 https://raw.githubusercontent.com/RetroPie/sixad/master/COPYING;
 config;raspbiantools;Raspbian related tools;;
