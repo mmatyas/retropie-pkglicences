@@ -145,7 +145,7 @@ opt;dxx-rebirth;DXX-Rebirth (Descent & Descent 2) source port;NONCOM https://raw
 opt;eduke32;Duke3D Port;GPL2 http://svn.eduke32.com/eduke32/package/common/gpl-2.0.txt;
 exp;gemrb;gemrb - open-source implementation of Infinity Engine;GPL2 https://raw.githubusercontent.com/gemrb/gemrb/master/COPYING;
 opt;giana;Giana's Return;;
-exp;ioquake3;Quake 3 source port;GPL2 https://raw.githubusercontent.com/atari800/atari800/master/COPYING;
+exp;ioquake3;Quake 3 source port;GPL2 https://github.com/ioquake/ioq3/blob/master/COPYING.txt;
 exp;jumpnbump;Jump 'n Bump, play cute bunnies jumping on each other's heads - Modernization fork;GPL2 https://gitlab.com/LibreGames/jumpnbump/raw/master/COPYING;
 opt;kodi;Kodi - Open source home theatre software;GPL2 https://raw.githubusercontent.com/xbmc/xbmc/master/LICENSE.md;
 opt;lincity-ng;lincity-ng - Open Source City Building Game;GPL2 https://raw.githubusercontent.com/lincity-ng/lincity-ng/master/COPYING;
