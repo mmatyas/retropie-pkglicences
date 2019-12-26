@@ -142,15 +142,17 @@ exp;cgenius;Commander Genius - Modern Interpreter for the Commander Keen Games (
 opt;darkplaces-quake;Quake 1 engine - Darkplaces Quake port with GLES rendering;GPL2 https://raw.githubusercontent.com/xonotic/darkplaces/master/COPYING;
 exp;digger;Digger Remastered;GPL https://raw.githubusercontent.com/sobomax/digger/master/README.md;
 opt;dxx-rebirth;DXX-Rebirth (Descent & Descent 2) source port;NONCOM https://raw.githubusercontent.com/dxx-rebirth/dxx-rebirth/master/COPYING.txt;
-opt;eduke32;Duke3D Port;GPL2 http://svn.eduke32.com/eduke32/package/common/gpl-2.0.txt;
+opt;eduke32;Duke3D source port;GPL2 http://svn.eduke32.com/eduke32/package/common/gpl-2.0.txt;
 exp;gemrb;gemrb - open-source implementation of Infinity Engine;GPL2 https://raw.githubusercontent.com/gemrb/gemrb/master/COPYING;
 opt;giana;Giana's Return;;
+exp;ionfury;Ion Fury - commercial FPS game based on eduke32 source port;GPL2 http://svn.eduke32.com/eduke32/package/common/gpl-2.0.txt;
 exp;ioquake3;Quake 3 source port;GPL2 https://github.com/ioquake/ioq3/blob/master/COPYING.txt;
 exp;jumpnbump;Jump 'n Bump, play cute bunnies jumping on each other's heads - Modernization fork;GPL2 https://gitlab.com/LibreGames/jumpnbump/raw/master/COPYING;
 opt;kodi;Kodi - Open source home theatre software;GPL2 https://raw.githubusercontent.com/xbmc/xbmc/master/LICENSE.md;
 opt;lincity-ng;lincity-ng - Open Source City Building Game;GPL2 https://raw.githubusercontent.com/lincity-ng/lincity-ng/master/COPYING;
 opt;love-0.10.2;Love - 2d Game Engine v0.10.2;GPL3 https://bitbucket.org/rude/love/raw/7b520c437317626da2102de1aafdad0e67b54bf5/license.txt;
 opt;love;Love - 2d Game Engine;GPL3 https://bitbucket.org/rude/love/raw/7b520c437317626da2102de1aafdad0e67b54bf5/license.txt;
+opt;lzdoom;lzdoom - DOOM source port (legacy version of GZDoom);GPL3 https://github.com/drfrag666/gzdoom/blob/g3.3mgw/docs/licenses/README.TXT;
 opt;micropolis;Micropolis - Open Source City Building Game;GPL https://raw.githubusercontent.com/SimHacker/micropolis/wiki/License.md;
 exp;minecraft;Minecraft - Pi Edition;PROP;
 exp;mysticmine;Mystic Mine - Rail game for up to six players on one keyboard;MIT https://raw.githubusercontent.com/dewitters/MysticMine/master/LICENSE.txt;
@@ -172,7 +174,6 @@ opt;uqm;The Ur-Quan Masters (Port of DOS game Star Control 2);NONCOM https://raw
 opt;wolf4sdl;Wolf4SDL - port of Wolfenstein 3D / Spear of Destiny engine;NONCOM https://raw.githubusercontent.com/mozzwald/wolf4sdl/master/license-mame.txt;
 opt;xrick;xrick - Port of Rick Dangerous;GPL https://raw.githubusercontent.com/HerbFargus/xrick/master/README;
 exp;yquake2;yquake2 - The Yamagi Quake II client;GPL2 https://raw.githubusercontent.com/yquake2/yquake2/master/LICENSE;
-opt;zdoom;ZDoom - Enhanced port of the official DOOM source;OTHER https://raw.githubusercontent.com/RetroPie/zdoom/master/docs/licenses/README.TXT;
 exp;attractmode;Attract Mode emulator frontend;GPL3 https://raw.githubusercontent.com/mickelson/attract/master/License.txt;
 config;audiosettings;Configure audio settings;;
 config;autostart;Auto-start Emulation Station / Kodi on boot;;
