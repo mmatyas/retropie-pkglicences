@@ -192,6 +192,7 @@ driver;gamecondriver;Gamecon & Db9 drivers GPIO drivers;;
 ;golang;Golang binary install;;
 exp;launchingimages;Generate runcommand launching images based on emulationstation themes.;;
 exp;mehstation;mehstation emulator frontend;MIT https://raw.githubusercontent.com/remeh/mehstation/master/LICENSE;
+;mesa-drm;libdrm - userspace library for drm;MIT https://www.mesa3d.org/license.html;
 driver;mkarcadejoystick;Raspberry Pi GPIO Joystick Driver;GPL2 https://raw.githubusercontent.com/recalbox/mk_arcade_joystick_rpi/master/LICENSE;
 exp;mobilegamepad;Mobile Universal Gamepad for RetroPie;GPL3 https://raw.githubusercontent.com/sbidolach/mobile-gamepad/master/LICENSE;
 exp;moonlight;Moonlight Embedded - an open source gamestream client for embedded systems;GPL3 https://raw.githubusercontent.com/irtimmer/moonlight-embedded/master/LICENSE;
