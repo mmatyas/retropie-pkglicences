@@ -171,6 +171,7 @@ exp;steamlink;Steam Link for Raspberry Pi 3 or later;PROP https://steamcommunity
 opt;supertux;SuperTux 2d scrolling platform;GPL3 https://raw.githubusercontent.com/SuperTux/supertux/master/LICENSE.txt;
 opt;tyrquake;Quake 1 engine - TyrQuake port;GPL2 https://raw.githubusercontent.com/RetroPie/tyrquake/master/gnu.txt;
 opt;uqm;The Ur-Quan Masters (Port of DOS game Star Control 2);NONCOM https://raw.githubusercontent.com/davidben/uqm/nacl/COPYING;
+exp;vvvvvv;VVVVVV - 2D puzzle game by Terry Cavanagh;NONCOM https://raw.githubusercontent.com/TerryCavanagh/VVVVVV/master/LICENSE.md;
 opt;wolf4sdl;Wolf4SDL - port of Wolfenstein 3D / Spear of Destiny engine;NONCOM https://raw.githubusercontent.com/mozzwald/wolf4sdl/master/license-mame.txt;
 opt;xrick;xrick - Port of Rick Dangerous;GPL https://raw.githubusercontent.com/HerbFargus/xrick/master/README;
 exp;yquake2;yquake2 - The Yamagi Quake II client;GPL2 https://raw.githubusercontent.com/yquake2/yquake2/master/LICENSE;
