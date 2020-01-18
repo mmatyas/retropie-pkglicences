@@ -28,7 +28,7 @@ async function fetch_commit_info() {
 function create_commit_info(commit) {
 	const date = commit.when.slice(0, 10);
 	const time = commit.when.slice(11, 16);
-	const text = `Last update: ${date} ${time}, <code>${commit.branch}</code> branch at <code>${commit.sha}</code>`;
+	const text = `Last commit: ${date} ${time}, <code>${commit.branch}</code> branch at <code>${commit.sha}</code>`;
 	document.getElementById('commit').innerHTML = text;
 }
 
