@@ -133,6 +133,7 @@ main;lr-vecx;Vectrex emulator - vecx port for libretro;GPL3 https://raw.githubus
 exp;lr-vice;C64 emulator - port of VICE for libretro;GPL2 https://raw.githubusercontent.com/libretro/vice-libretro/master/vice/COPYING;
 exp;lr-virtualjaguar;Atari Jaguar emu - Virtual Jaguar (optimised) port for libretro;GPL3 https://raw.githubusercontent.com/libretro/virtualjaguar-libretro/master/docs/GPLv3;
 exp;lr-x1;Sharp X1 emulator - X Millenium port for libretro;;
+opt;lr-xrick;Open source implementation of Rich Dangerous - xrick ported for libretro;GPL https://raw.githubusercontent.com/libretro/xrick-libretro/master/README;
 exp;lr-yabause;Sega Saturn emu - Yabause (optimised) port for libretro;GPL2 https://raw.githubusercontent.com/libretro/yabause/master/yabause/COPYING;
 exp;abuse;Abuse;;
 opt;alephone;AlephOne - Marathon Engine;GPL3 https://raw.githubusercontent.com/Aleph-One-Marathon/alephone/master/COPYING;
@@ -174,7 +175,7 @@ opt;tyrquake;Quake 1 engine - TyrQuake port;GPL2 https://raw.githubusercontent.c
 opt;uqm;The Ur-Quan Masters (Port of DOS game Star Control 2);NONCOM https://raw.githubusercontent.com/davidben/uqm/nacl/COPYING;
 exp;vvvvvv;VVVVVV - 2D puzzle game by Terry Cavanagh;NONCOM https://raw.githubusercontent.com/TerryCavanagh/VVVVVV/master/LICENSE.md;
 opt;wolf4sdl;Wolf4SDL - port of Wolfenstein 3D / Spear of Destiny engine;NONCOM https://raw.githubusercontent.com/mozzwald/wolf4sdl/master/license-mame.txt;
-opt;xrick;xrick - Port of Rick Dangerous;GPL https://raw.githubusercontent.com/HerbFargus/xrick/master/README;
+opt;xrick;xrick - Open source implementation of Rick Dangerous;GPL https://raw.githubusercontent.com/RetroPie/xrick/master/README;
 exp;yquake2;yquake2 - The Yamagi Quake II client;GPL2 https://raw.githubusercontent.com/yquake2/yquake2/master/LICENSE;
 exp;attractmode;Attract Mode emulator frontend;GPL3 https://raw.githubusercontent.com/mickelson/attract/master/License.txt;
 config;audiosettings;Configure audio settings;;
