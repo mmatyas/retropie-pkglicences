@@ -36,6 +36,7 @@ opt;pisnes;SNES emulator PiSNES;NONCOM https://raw.githubusercontent.com/RetroPi
 opt;ppsspp;PlayStation Portable emulator PPSSPP;GPL2 https://raw.githubusercontent.com/hrydgard/ppsspp/master/LICENSE.TXT;
 exp;px68k;SHARP X68000 Emulator;;
 exp;quasi88;NEC PC-8801 emulator;;
+exp;redream;Redream Dreamcast emulator;PROP;
 opt;reicast;Dreamcast emulator Reicast;GPL2 https://raw.githubusercontent.com/reicast/reicast-emulator/master/LICENSE;
 exp;residualvm;ResidualVM - A 3D Game Interpreter;GPL2 https://raw.githubusercontent.com/residualvm/residualvm/master/COPYING;
 core;retroarch;RetroArch - frontend to the libretro emulator cores - required by all lr-* emulators;GPL3 https://raw.githubusercontent.com/libretro/RetroArch/master/COPYING;
@@ -77,7 +78,7 @@ exp;lr-dosbox;DOS emulator;GPL2 https://raw.githubusercontent.com/libretro/dosbo
 opt armv6=main;lr-fbalpha2012;Arcade emu - Final Burn Alpha (0.2.97.30) port for libretro;NONCOM https://raw.githubusercontent.com/libretro/fbalpha2012/master/docs/license.txt;
 main armv6=opt;lr-fbneo;Arcade emu - FinalBurn Neo v0.2.97.44 (WIP) port for libretro;NONCOM https://raw.githubusercontent.com/libretro/FBNeo/master/src/license.txt;
 main;lr-fceumm;NES emu - FCEUmm port for libretro;GPL2 https://raw.githubusercontent.com/libretro/libretro-fceumm/master/Copying;
-exp;lr-flycast;Dreamcast emulator - Reicast port for libretro;GPL2 https://raw.githubusercontent.com/libretro/flycast/master/LICENSE;
+opt;lr-flycast;Dreamcast emulator - Reicast port for libretro;GPL2 https://raw.githubusercontent.com/libretro/flycast/master/LICENSE;
 opt;lr-fmsx;MSX/MSX2 emu - fMSX port for libretro;NONCOM https://raw.githubusercontent.com/libretro/fmsx-libretro/master/LICENSE;
 exp;lr-freechaf;ChannelF emulator for libretro;GPL3 https://raw.githubusercontent.com/libretro/FreeChaF/master/LICENSE;
 opt;lr-freeintv;Intellivision emulator for libretro;GPL3 https://raw.githubusercontent.com/libretro/FreeIntv/master/LICENSE;
@@ -100,14 +101,14 @@ exp;lr-mess2016;MESS emulator - MESS Port for libretro;GPL2 https://raw.githubus
 exp;lr-mess;MESS emulator - MESS Port for libretro;GPL2 https://raw.githubusercontent.com/libretro/mame/master/LICENSE.md;
 main;lr-mgba;(Super) Game Boy Color/GBA emulator - MGBA (optimised) port for libretro;MPL2 https://raw.githubusercontent.com/libretro/mgba/master/LICENSE;
 opt;lr-mrboom;Mr.Boom - 8 players Bomberman clone for libretro.;MIT https://raw.githubusercontent.com/libretro/mrboom-libretro/master/LICENSE;
-exp;lr-mupen64plus-next;N64 emulator - Mupen64Plus + GLideN64 for libretro (next version);GPL2 https://raw.githubusercontent.com/libretro/mupen64plus-libretro-nx/master/LICENSE;
+opt kms=main;lr-mupen64plus-next;N64 emulator - Mupen64Plus + GLideN64 for libretro (next version);GPL2 https://raw.githubusercontent.com/libretro/mupen64plus-libretro-nx/master/LICENSE;
 main;lr-mupen64plus;N64 emu - Mupen64Plus + GLideN64 for libretro;GPL2 https://raw.githubusercontent.com/libretro/mupen64plus-libretro/master/LICENSE;
 exp;lr-neocd;Neo Geo CD Emulator - rewrite of NeoCD for libretro;GPL3 https://raw.githubusercontent.com/libretro/neocd_libretro/master/LICENSE.md;
 main;lr-nestopia;NES emu - Nestopia (enhanced) port for libretro;GPL2 https://raw.githubusercontent.com/libretro/nestopia/master/COPYING;
 exp;lr-np2kai;PC98 emu - Modified Neko Project II port for libretro;;
 opt;lr-nxengine;Cave Story engine clone - NxEngine port for libretro;GPL3 https://raw.githubusercontent.com/libretro/nxengine-libretro/master/nxengine/LICENSE;
 opt;lr-o2em;Odyssey 2 / Videopac emu - O2EM port for libretro;OTHER;
-opt x86=main;lr-parallel-n64;N64 emu - Highly modified Mupen64Plus port for libretro;GPL2 https://raw.githubusercontent.com/libretro/parallel-n64/master/mupen64plus-core/LICENSES;
+exp x86=main;lr-parallel-n64;N64 emu - Highly modified Mupen64Plus port for libretro;GPL2 https://raw.githubusercontent.com/libretro/parallel-n64/master/mupen64plus-core/LICENSES;
 opt arm=main;lr-pcsx-rearmed;Playstation emulator - PCSX (arm optimised) port for libretro;GPL2 https://raw.githubusercontent.com/libretro/pcsx_rearmed/master/COPYING;
 main;lr-picodrive;Sega 8/16 bit emu - picodrive arm optimised libretro core;NONCOM https://raw.githubusercontent.com/libretro/picodrive/master/COPYING;
 exp;lr-pokemini;Pokemon Mini emulator - PokeMini port for libretro;GPL3 https://raw.githubusercontent.com/libretro/PokeMini/master/LICENSE;
@@ -148,7 +149,7 @@ opt;eduke32;Duke3D source port;GPL2 http://svn.eduke32.com/eduke32/package/commo
 exp;gemrb;gemrb - open-source implementation of Infinity Engine;GPL2 https://raw.githubusercontent.com/gemrb/gemrb/master/COPYING;
 opt;giana;Giana's Return;;
 exp;ionfury;Ion Fury - commercial FPS game based on eduke32 source port;GPL2 http://svn.eduke32.com/eduke32/package/common/gpl-2.0.txt;
-exp;ioquake3;Quake 3 source port;GPL2 https://github.com/ioquake/ioq3/blob/master/COPYING.txt;
+opt;ioquake3;Quake 3 source port;GPL2 https://github.com/ioquake/ioq3/blob/master/COPYING.txt;
 exp;jumpnbump;Jump 'n Bump, play cute bunnies jumping on each other's heads - Modernization fork;GPL2 https://gitlab.com/LibreGames/jumpnbump/raw/master/COPYING;
 opt;kodi;Kodi - Open source home theatre software;GPL2 https://raw.githubusercontent.com/xbmc/xbmc/master/LICENSE.md;
 opt;lincity-ng;lincity-ng - Open Source City Building Game;GPL2 https://raw.githubusercontent.com/lincity-ng/lincity-ng/master/COPYING;
@@ -214,7 +215,7 @@ opt;scraper;Scraper for EmulationStation by Steven Selph;MIT https://raw.githubu
 ;sdl1;SDL 1.2.15 with rpi fixes and dispmanx;GPL2 https://hg.libsdl.org/SDL/raw-file/7676476631ce/COPYING;
 ;sdl2;SDL (Simple DirectMedia Layer) v2.x;ZLIB https://hg.libsdl.org/SDL/raw-file/f426dbef4aa0/COPYING.txt;
 driver;sixaxis;Helper service to install & configure the latest drivers for official and third-party DualShock controllers (ps3controller replacement)\n\nNote: For Shanwan/GASIA third-party controllers, enable third-party support in the configuration options.\n\nTo pair controllers, use the RetroPie Bluetooth menu, choose 'Register and Connect...', then follow the on-screen instructions.;GPL2 https://raw.githubusercontent.com/RetroPie/sixaxis/master/COPYING;
-exp;skyscraper;Scraper for EmulationStation by Lars Muldjord;GPL3 https://raw.githubusercontent.com/muldjord/skyscraper/master/LICENSE;
+opt;skyscraper;Scraper for EmulationStation by Lars Muldjord;GPL3 https://raw.githubusercontent.com/muldjord/skyscraper/master/LICENSE;
 driver;snesdev;SNESDev (Driver for the RetroPie GPIO-Adapter);;
 main;splashscreen;Configure Splashscreen;;
 driver;steamcontroller;Standalone Steam Controller Driver;MIT https://raw.githubusercontent.com/ynsta/steamcontroller/master/LICENSE;
