@@ -55,7 +55,6 @@ opt;vice;C64 emulator VICE;GPL2 http://svn.code.sf.net/p/vice-emu/code/trunk/vic
 exp;xm7;Fujitsu FM-7 series emulator;NONCOM https://raw.githubusercontent.com/nakatamaho/XM7-for-SDL/master/Doc/mess/license.txt;
 opt;xroar;Dragon / CoCo emulator XRoar;GPL2 http://www.6809.org.uk/xroar/;
 opt;zesarux;ZX Spectrum emulator ZEsarUX;GPL3 https://raw.githubusercontent.com/chernandezba/zesarux/master/src/LICENSE;
-exp;lr-4do;3DO emu - 4DO/libfreedo port for libretro;LGPL https://raw.githubusercontent.com/libretro/4do-libretro/master/libfreedo/freedo_3do.c;
 exp;lr-81;Sinclair ZX81 emulator - EightyOne port for libretro;GPL3 https://raw.githubusercontent.com/libretro/81-libretro/master/LICENSE;
 main;lr-atari800;Atari 8-bit/800/5200 emulator - Atari800 port for libretro;GPL2 https://raw.githubusercontent.com/libretro/libretro-atari800/master/atari800/COPYING;
 opt;lr-beetle-lynx;Atari Lynx emulator - Mednafen Lynx Port for libretro, itself a fork of Handy;GPL2 https://raw.githubusercontent.com/libretro/beetle-lynx-libretro/master/COPYING;
@@ -108,6 +107,7 @@ main;lr-nestopia;NES emu - Nestopia (enhanced) port for libretro;GPL2 https://ra
 exp;lr-np2kai;PC98 emu - Modified Neko Project II port for libretro;;
 opt;lr-nxengine;Cave Story engine clone - NxEngine port for libretro;GPL3 https://raw.githubusercontent.com/libretro/nxengine-libretro/master/nxengine/LICENSE;
 opt;lr-o2em;Odyssey 2 / Videopac emu - O2EM port for libretro;OTHER;
+exp;lr-opera;3DO emulator - fork of 4DO/FreeDO for libretro;LGPL https://raw.githubusercontent.com/libretro/opera-libretro/master/libfreedo/freedo_3do.c;
 exp x86=main;lr-parallel-n64;N64 emu - Highly modified Mupen64Plus port for libretro;GPL2 https://raw.githubusercontent.com/libretro/parallel-n64/master/mupen64plus-core/LICENSES;
 opt arm=main;lr-pcsx-rearmed;Playstation emulator - PCSX (arm optimised) port for libretro;GPL2 https://raw.githubusercontent.com/libretro/pcsx_rearmed/master/COPYING;
 main;lr-picodrive;Sega 8/16 bit emu - picodrive arm optimised libretro core;NONCOM https://raw.githubusercontent.com/libretro/picodrive/master/COPYING;
