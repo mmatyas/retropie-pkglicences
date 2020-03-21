@@ -119,7 +119,6 @@ exp;lr-puae;P-UAE Amiga emulator port for libretro;GPL2 https://raw.githubuserco
 exp;lr-px68k;SHARP X68000 Emulator;;
 exp;lr-quasi88;NEC PC-8801 emu - Quasi88 port for libretro;BSD https://raw.githubusercontent.com/libretro/quasi88-libretro/master/LICENSE;
 main;lr-quicknes;NES emulator - QuickNES Port for libretro;GPL2 https://raw.githubusercontent.com/libretro/QuickNES_Core/master/LICENSE;
-exp;lr-redream;Dreamcast emulator - redream port for libretro;GPL3 https://raw.githubusercontent.com/libretro/redream/master/LICENSE.txt;
 exp;lr-scummvm;ScummVM port for libretro;GPL2 https://raw.githubusercontent.com/libretro/scummvm/master/COPYING;
 opt armv6=main;lr-snes9x2002;Super Nintendo emu - ARM optimised Snes9x 1.39 port for libretro;NONCOM https://raw.githubusercontent.com/libretro/snes9x2002/master/src/copyright.h;
 opt arm=main;lr-snes9x2005;Super Nintendo emu - Snes9x 1.43 based port for libretro;NONCOM https://raw.githubusercontent.com/libretro/snes9x2005/master/copyright;
