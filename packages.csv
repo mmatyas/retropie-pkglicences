@@ -96,6 +96,7 @@ opt;lr-mame2010;Arcade emu - MAME 0.139 port for libretro;NONCOM https://raw.git
 exp;lr-mame2015;Arcade emu - MAME 0.160 port for libretro;NONCOM https://raw.githubusercontent.com/libretro/mame2015-libretro/master/docs/license.txt;
 exp;lr-mame2016;MAME emulator - MAME 0.174 port for libretro;GPL2 https://raw.githubusercontent.com/libretro/mame2016-libretro/master/LICENSE.md;
 exp;lr-mame;MAME emulator - MAME (current) port for libretro;GPL2 https://raw.githubusercontent.com/libretro/mame/master/LICENSE.md;
+exp;lr-mesen;High-accuracy NES and Famicom emulator;GPL3 https://raw.githubusercontent.com/sourmesen/mesen/master/LICENSE;
 exp;lr-mess2016;MESS emulator - MESS Port for libretro;GPL2 https://raw.githubusercontent.com/libretro/mame2016-libretro/master/LICENSE.md;
 exp;lr-mess;MESS emulator - MESS Port for libretro;GPL2 https://raw.githubusercontent.com/libretro/mame/master/LICENSE.md;
 main;lr-mgba;(Super) Game Boy Color/GBA emulator - MGBA (optimised) port for libretro;MPL2 https://raw.githubusercontent.com/libretro/mgba/master/LICENSE;
