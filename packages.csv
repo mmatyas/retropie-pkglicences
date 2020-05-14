@@ -128,6 +128,7 @@ opt armv8=main x86=main;lr-snes9x;Super Nintendo emu - Snes9x (current) port for
 main;lr-stella2014;Atari 2600 emulator - Stella port for libretro;GPL2 https://raw.githubusercontent.com/libretro/stella2014-libretro/master/stella/license.txt;
 exp;lr-superflappybirds;Super Flappy Birds - Multiplayer Flappy Bird Clone;GPL3 https://raw.githubusercontent.com/IgniparousTempest/libretro-superflappybirds/master/LICENSE;
 opt;lr-tgbdual;Gameboy Color emu - TGB Dual port for libretro;GPL2 https://raw.githubusercontent.com/libretro/tgbdual-libretro/master/docs/COPYING-2.0.txt;
+exp;lr-theodore;Thomson MO/TO system emulator;GPL3 https://raw.githubusercontent.com/libretro/theodore/master/LICENSE;
 opt;lr-tyrquake;Quake 1 engine - Tyrquake port for libretro;GPL2 https://raw.githubusercontent.com/libretro/tyrquake/master/gnu.txt;
 main;lr-vba-next;GBA emulator - VBA-M (optimised) port for libretro;GPL2 https://raw.githubusercontent.com/libretro/vba-next/master/LICENSE;
 main;lr-vecx;Vectrex emulator - vecx port for libretro;GPL3 https://raw.githubusercontent.com/libretro/libretro-vecx/master/LICENSE.md;
