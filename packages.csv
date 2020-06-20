@@ -23,6 +23,7 @@ opt;hatari;Atari emulator Hatari;GPL2 https://hg.tuxfamily.org/mercurialroot/hat
 opt;jzintv;Intellivision emulator;GPL2 http://spatula-city.org/%7Eim14u2c/intv/;
 opt;linapple;Apple 2 emulator LinApple;GPL2 https://raw.githubusercontent.com/dabonetn/linapple-pie/master/LICENSE;
 opt armv6=main;mame4all;MAME emulator MAME4All-Pi;NONCOM https://raw.githubusercontent.com/RetroPie/mame4all-pi/master/readme.txt;
+exp;mame;MAME emulator;GPL2 https://github.com/mamedev/mame/blob/master/COPYING;
 exp;minivmac;Macintosh Plus Emulator;GPL2 https://raw.githubusercontent.com/vanfanel/minivmac_sdl2/master/COPYING.txt;
 main;mupen64plus;N64 emulator MUPEN64Plus;GPL2 https://raw.githubusercontent.com/mupen64plus/mupen64plus-core/master/LICENSES;
 exp;np2pi;NEC PC-9801 emulator;;
@@ -83,6 +84,7 @@ exp;lr-freechaf;ChannelF emulator for libretro;GPL3 https://raw.githubuserconten
 opt;lr-freeintv;Intellivision emulator for libretro;GPL3 https://raw.githubusercontent.com/libretro/FreeIntv/master/LICENSE;
 main;lr-fuse;ZX Spectrum emu - Fuse port for libretro;GPL3 https://raw.githubusercontent.com/libretro/fuse-libretro/master/LICENSE;
 main;lr-gambatte;Gameboy Color emu - libgambatte port for libretro;GPL2 https://raw.githubusercontent.com/libretro/gambatte-libretro/master/COPYING;
+exp;lr-gearsystem;Sega 8 bit emu - Gearsystem port for libretro;GPL3 https://raw.githubusercontent.com/drhelius/Gearsystem/master/LICENSE;
 main;lr-genesis-plus-gx;Sega 8/16 bit emu - Genesis Plus (enhanced) port for libretro;NONCOM https://raw.githubusercontent.com/libretro/Genesis-Plus-GX/master/LICENSE.txt;
 opt arm=main;lr-gpsp;GBA emu - gpSP port for libretro;GPL2 https://raw.githubusercontent.com/libretro/gpsp/master/COPYING;
 opt;lr-gw;Game and Watch simulator;ZLIB https://raw.githubusercontent.com/libretro/gw-libretro/master/LICENSE;
@@ -121,6 +123,7 @@ exp;lr-px68k;SHARP X68000 Emulator;;
 exp;lr-quasi88;NEC PC-8801 emu - Quasi88 port for libretro;BSD https://raw.githubusercontent.com/libretro/quasi88-libretro/master/LICENSE;
 main;lr-quicknes;NES emulator - QuickNES Port for libretro;GPL2 https://raw.githubusercontent.com/libretro/QuickNES_Core/master/LICENSE;
 exp;lr-scummvm;ScummVM port for libretro;GPL2 https://raw.githubusercontent.com/libretro/scummvm/master/COPYING;
+exp;lr-smsplus-gx;Sega Master System & Game Gear emu - SMSPlus (enhanced) port for libretro;GPL2 https://raw.githubusercontent.com/libretro/smsplus-gx/master/docs/license;
 opt armv6=main;lr-snes9x2002;Super Nintendo emu - ARM optimised Snes9x 1.39 port for libretro;NONCOM https://raw.githubusercontent.com/libretro/snes9x2002/master/src/copyright.h;
 opt arm=main;lr-snes9x2005;Super Nintendo emu - Snes9x 1.43 based port for libretro;NONCOM https://raw.githubusercontent.com/libretro/snes9x2005/master/copyright;
 opt arm=main;lr-snes9x2010;Super Nintendo emu - Snes9x 1.52 based port for libretro;NONCOM https://raw.githubusercontent.com/libretro/snes9x2010/master/docs/snes9x-license.txt;
