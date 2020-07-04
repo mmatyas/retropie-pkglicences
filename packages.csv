@@ -229,4 +229,5 @@ config;wifi;Configure Wifi;;
 config;wikiview;RetroPie-Setup Wiki Viewer;;
 driver;xarcade2jstick;Xarcade2Jstick;;
 driver;xboxdrv;Xbox / Xbox 360 gamepad driver;GPL3 https://raw.githubusercontent.com/zerojay/xboxdrv/stable/COPYING;
+driver;xpadneo;Advanced Linux driver for Xbox One wireless gamepads;GPL3 https://raw.githubusercontent.com/atar-axis/xpadneo/master/LICENSE;
 driver;xpad;Updated Xpad Linux Kernel driver;GPL2 https://www.kernel.org/pub/linux/kernel/COPYING;
