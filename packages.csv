@@ -49,7 +49,7 @@ opt;simcoupe;SimCoupe SAM Coupe emulator;GPL2 https://raw.githubusercontent.com/
 opt;snes9x;SNES emulator SNES9X-RPi;NONCOM https://raw.githubusercontent.com/RetroPie/snes9x-rpi/master/snes9x.h;
 opt;stella;Atari2600 emulator STELLA;GPL2 https://raw.githubusercontent.com/stella-emu/stella/master/License.txt;
 opt;stratagus;Stratagus - A strategy game engine to play Warcraft I or II, Starcraft, and some similar open-source games;GPL2 https://raw.githubusercontent.com/Wargus/stratagus/master/COPYING;
-exp;ti99sim;TI-99/SIM - Texas Instruments Home Computer Emulator;GPL2 http://www.mrousseau.org/programs/ti99sim/;
+exp;ti99sim;TI-99/SIM - Texas Instruments Home Computer Emulator;GPL2 https://www.mrousseau.org/programs/ti99sim;
 opt;uae4all;Amiga emulator UAE4All;GPL2 https://raw.githubusercontent.com/RetroPie/uae4all2/retropie/copying;
 opt;uae4arm;Amiga emulator with JIT support;GPL2;
 opt;vice;C64 emulator VICE;GPL2 http://svn.code.sf.net/p/vice-emu/code/trunk/vice/COPYING;
