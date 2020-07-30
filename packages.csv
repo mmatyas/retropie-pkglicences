@@ -225,7 +225,7 @@ main;splashscreen;Configure Splashscreen;;
 driver;steamcontroller;Standalone Steam Controller Driver;MIT https://raw.githubusercontent.com/ynsta/steamcontroller/master/LICENSE;
 opt;usbromservice;USB ROM Service;;
 exp;virtualgamepad;Virtual Gamepad for Smartphone;MIT https://raw.githubusercontent.com/miroof/node-virtual-gamepads/master/LICENSE;
-config;wifi;Configure Wifi;;
+config;wifi;Configure WiFi;;
 config;wikiview;RetroPie-Setup Wiki Viewer;;
 driver;xarcade2jstick;Xarcade2Jstick;;
 driver;xboxdrv;Xbox / Xbox 360 gamepad driver;GPL3 https://raw.githubusercontent.com/zerojay/xboxdrv/stable/COPYING;
