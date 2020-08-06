@@ -44,7 +44,7 @@ core;retroarch;RetroArch - frontend to the libretro emulator cores - required by
 opt;rpix86;DOS Emulator rpix86;FREEWARE http://rpix86.patrickaalto.com/rdown.html;
 opt;scummvm-sdl1;ScummVM - built with legacy SDL1 support.;GPL2 https://raw.githubusercontent.com/scummvm/scummvm/master/COPYING;
 opt;scummvm;ScummVM;GPL2 https://raw.githubusercontent.com/scummvm/scummvm/master/COPYING;
-exp;sdltrs;Radio Shack TRS-80 Model I/III/4/4P emulator;;
+exp;sdltrs;Radio Shack TRS-80 Model I/III/4/4P emulator;BSD https://gitlab.com/jengun/sdltrs/-/raw/master/LICENSE;
 opt;simcoupe;SimCoupe SAM Coupe emulator;GPL2 https://raw.githubusercontent.com/simonowen/simcoupe/master/License.txt;
 opt;snes9x;SNES emulator SNES9X-RPi;NONCOM https://raw.githubusercontent.com/RetroPie/snes9x-rpi/master/snes9x.h;
 opt;stella;Atari2600 emulator STELLA;GPL2 https://raw.githubusercontent.com/stella-emu/stella/master/License.txt;
