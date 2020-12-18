@@ -34,6 +34,7 @@ exp;pcsx2;PS2 emulator PCSX2;GPL3 https://raw.githubusercontent.com/PCSX2/pcsx2/
 opt;pcsx-rearmed;Playstation emulator - PCSX (arm optimised);GPL2 https://raw.githubusercontent.com/notaz/pcsx_rearmed/master/COPYING;
 opt armv6=main;pifba;FBA emulator PiFBA;GPL2 https://raw.githubusercontent.com/RetroPie/pifba/master/FBAcapex_src/COPYING;
 opt;pisnes;SNES emulator PiSNES;NONCOM https://raw.githubusercontent.com/RetroPie/pisnes/master/snes9x.h;
+opt;ppsspp-1.5.4;PlayStation Portable emulator PPSSPP v1.5.4;GPL2 https://raw.githubusercontent.com/hrydgard/ppsspp/master/LICENSE.TXT;
 opt;ppsspp;PlayStation Portable emulator PPSSPP;GPL2 https://raw.githubusercontent.com/hrydgard/ppsspp/master/LICENSE.TXT;
 exp;px68k;SHARP X68000 Emulator;;
 exp;quasi88;NEC PC-8801 emulator;;
