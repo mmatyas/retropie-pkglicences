@@ -78,7 +78,7 @@ exp;lr-dinothawr;Dinothawr - standalone libretro puzzle game;NONCOM https://raw.
 exp;lr-dolphin;Gamecube/Wii emulator - Dolphin port for libretro;GPL2 https://raw.githubusercontent.com/libretro/dolphin/master/license.txt;
 exp;lr-dosbox;DOS emulator;GPL2 https://raw.githubusercontent.com/libretro/dosbox-libretro/master/COPYING;
 opt armv6=main;lr-fbalpha2012;Arcade emu - Final Burn Alpha (0.2.97.30) port for libretro;NONCOM https://raw.githubusercontent.com/libretro/fbalpha2012/master/docs/license.txt;
-main armv6=opt;lr-fbneo;Arcade emu - FinalBurn Neo v0.2.97.44 (WIP) port for libretro;NONCOM https://raw.githubusercontent.com/libretro/FBNeo/master/src/license.txt;
+main armv6=opt;lr-fbneo;Arcade emu - FinalBurn Neo v1.0.0.01 (Upstream) port for libretro;NONCOM https://raw.githubusercontent.com/libretro/FBNeo/master/src/license.txt;
 main;lr-fceumm;NES emu - FCEUmm port for libretro;GPL2 https://raw.githubusercontent.com/libretro/libretro-fceumm/master/Copying;
 opt;lr-flycast;Dreamcast emulator - Reicast port for libretro;GPL2 https://raw.githubusercontent.com/libretro/flycast/master/LICENSE;
 opt;lr-fmsx;MSX/MSX2 emu - fMSX port for libretro;NONCOM https://raw.githubusercontent.com/libretro/fmsx-libretro/master/LICENSE;
@@ -195,6 +195,7 @@ driver;controlblock;ControlBlock Driver;NONCOM https://raw.githubusercontent.com
 driver;custombluez;Updated version of BlueZ Bluetooth stack;GPL2 http://www.bluez.org/faq/common/;
 driver;customhidsony;Custom hid-sony (Sony DualShock) driver with enhanced third-party controller support;;
 config;dispmanx;Configure emulators to use dispmanx SDL;;
+config;docsview;RetroPie-Setup Docs Viewer;;
 exp;emulationstation-dev;EmulationStation (latest development version) - Frontend used by RetroPie for launching emulators;MIT https://raw.githubusercontent.com/RetroPie/EmulationStation/master/LICENSE.md;
 core;emulationstation;EmulationStation - Frontend used by RetroPie for launching emulators;MIT https://raw.githubusercontent.com/RetroPie/EmulationStation/master/LICENSE.md;
 config;esthemes;Install themes for Emulation Station;;
@@ -228,7 +229,6 @@ driver;steamcontroller;Standalone Steam Controller Driver;MIT https://raw.github
 opt;usbromservice;USB ROM Service;;
 exp;virtualgamepad;Virtual Gamepad for Smartphone;MIT https://raw.githubusercontent.com/miroof/node-virtual-gamepads/master/LICENSE;
 config;wifi;Configure WiFi;;
-config;wikiview;RetroPie-Setup Wiki Viewer;;
 driver;xarcade2jstick;Xarcade2Jstick;GPL3 https://raw.githubusercontent.com/petrockblog/Xarcade2Jstick/master/gpl3.txt;
 driver;xboxdrv;Xbox / Xbox 360 gamepad driver;GPL3 https://raw.githubusercontent.com/zerojay/xboxdrv/stable/COPYING;
 driver;xpadneo;Advanced Linux driver for Xbox One wireless gamepads;GPL3 https://raw.githubusercontent.com/atar-axis/xpadneo/master/LICENSE;
