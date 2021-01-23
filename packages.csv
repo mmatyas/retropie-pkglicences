@@ -76,6 +76,7 @@ exp;lr-desmume2015;NDS emu - DESMUME (2015 version);GPL2 https://raw.githubuserc
 exp;lr-desmume;NDS emu - DESMUME;GPL2 https://raw.githubusercontent.com/libretro/desmume/master/desmume/COPYING;
 exp;lr-dinothawr;Dinothawr - standalone libretro puzzle game;NONCOM https://raw.githubusercontent.com/libretro/Dinothawr/master/LICENSE;
 exp;lr-dolphin;Gamecube/Wii emulator - Dolphin port for libretro;GPL2 https://raw.githubusercontent.com/libretro/dolphin/master/license.txt;
+exp;lr-dosbox-pure;DOS emulator;GPL2 https://raw.githubusercontent.com/libretro/dosbox-pure/main/LICENSE;
 exp;lr-dosbox;DOS emulator;GPL2 https://raw.githubusercontent.com/libretro/dosbox-libretro/master/COPYING;
 opt armv6=main;lr-fbalpha2012;Arcade emu - Final Burn Alpha (0.2.97.30) port for libretro;NONCOM https://raw.githubusercontent.com/libretro/fbalpha2012/master/docs/license.txt;
 main armv6=opt;lr-fbneo;Arcade emu - FinalBurn Neo v1.0.0.01 (Upstream) port for libretro;NONCOM https://raw.githubusercontent.com/libretro/FBNeo/master/src/license.txt;
@@ -167,7 +168,7 @@ exp;minecraft;Minecraft - Pi Edition;PROP;
 exp;mysticmine;Mystic Mine - Rail game for up to six players on one keyboard;MIT https://raw.githubusercontent.com/dewitters/MysticMine/master/LICENSE.txt;
 exp;openblok;OpenBlok: A Block Dropping Game;GPL3 https://raw.githubusercontent.com/mmatyas/openblok/master/LICENSE.md;
 exp;openbor;OpenBOR - Beat 'em Up Game Engine;BSD https://raw.githubusercontent.com/rofl0r/openbor/master/LICENSE;
-opt;openpht;OpenPHT is a community driven fork of Plex Home Theater;GPL2 https://raw.githubusercontent.com/RasPlex/OpenPHT/openpht-1.7/LICENSE.GPL;
+exp;openpht;OpenPHT is a community driven fork of Plex Home Theater;GPL2 https://raw.githubusercontent.com/RasPlex/OpenPHT/openpht-1.7/LICENSE.GPL;
 opt;openttd;Open Source Simulator Based On Transport Tycoon Deluxe;GPL2 https://raw.githubusercontent.com/OpenTTD/OpenTTD/master/COPYING.md;
 opt;opentyrian;Open Tyrian - port of the DOS shoot-em-up Tyrian;GPL2 https://bitbucket.org/opentyrian/opentyrian/raw/3e3d6b925342a5891d8b937989dc50b563ff83dd/COPYING;
 opt;quake3;Quake 3;GPL2 https://raw.githubusercontent.com/raspberrypi/quake3/master/COPYING.txt;
