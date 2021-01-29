@@ -95,7 +95,7 @@ main;lr-handy;Atari Lynx emulator - Handy port for libretro;ZLIB https://raw.git
 exp;lr-hatari;Atari emulator - Hatari port for libretro;GPL2 https://raw.githubusercontent.com/libretro/hatari/master/gpl.txt;
 exp;lr-kronos;Saturn & ST-V emulator - Kronos port for libretro;GPL2 https://raw.githubusercontent.com/libretro/yabause/kronos/yabause/COPYING;
 opt armv6=main;lr-mame2000;Arcade emu - MAME 0.37b5 port for libretro;NONCOM https://raw.githubusercontent.com/libretro/mame2000-libretro/master/readme.txt;
-exp;lr-mame2003-plus;Arcade emu - updated MAME 0.78 port for libretro with added game support;NONCOM https://raw.githubusercontent.com/libretro/mame2003-plus-libretro/master/LICENSE.md;
+opt;lr-mame2003-plus;Arcade emu - updated MAME 0.78 port for libretro with added game support;NONCOM https://raw.githubusercontent.com/libretro/mame2003-plus-libretro/master/LICENSE.md;
 main armv6=opt;lr-mame2003;Arcade emu - MAME 0.78 port for libretro;NONCOM https://raw.githubusercontent.com/libretro/mame2003-libretro/master/LICENSE.md;
 opt;lr-mame2010;Arcade emu - MAME 0.139 port for libretro;NONCOM https://raw.githubusercontent.com/libretro/mame2010-libretro/master/docs/license.txt;
 exp;lr-mame2015;Arcade emu - MAME 0.160 port for libretro;NONCOM https://raw.githubusercontent.com/libretro/mame2015-libretro/master/docs/license.txt;
@@ -143,7 +143,6 @@ exp;lr-virtualjaguar;Atari Jaguar emu - Virtual Jaguar (optimised) port for libr
 exp;lr-x1;Sharp X1 emulator - X Millenium port for libretro;;
 opt;lr-xrick;Open source implementation of Rich Dangerous - xrick ported for libretro;GPL https://raw.githubusercontent.com/libretro/xrick-libretro/master/README;
 exp;lr-yabause;Sega Saturn emu - Yabause (optimised) port for libretro;GPL2 https://raw.githubusercontent.com/libretro/yabause/master/yabause/COPYING;
-exp;abuse;Abuse;GPL https://raw.githubusercontent.com/Xenoveritas/abuse/master/COPYING;
 opt;alephone;AlephOne - Marathon Engine;GPL3 https://raw.githubusercontent.com/Aleph-One-Marathon/alephone/master/COPYING;
 exp;bombermaaan;Bombermaaan - Classic bomberman game;GPL3 https://raw.githubusercontent.com/bjaraujo/Bombermaaan/master/LICENSE.txt;
 opt;cannonball;Cannonball - An Enhanced OutRun Engine;NONCOM https://raw.githubusercontent.com/djyt/cannonball/master/docs/license.txt;
