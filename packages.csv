@@ -121,7 +121,7 @@ exp;lr-pokemini;Pokemon Mini emulator - PokeMini port for libretro;GPL3 https://
 opt;lr-ppsspp;PlayStation Portable emu - PPSSPP port for libretro;GPL2 https://raw.githubusercontent.com/RetroPie/ppsspp/master/LICENSE.TXT;
 opt;lr-prboom;Doom/Doom II engine - PrBoom port for libretro;GPL2 https://raw.githubusercontent.com/libretro/libretro-prboom/master/COPYING;
 main;lr-prosystem;Atari 7800 ProSystem emu - ProSystem port for libretro;GPL2 https://raw.githubusercontent.com/libretro/prosystem-libretro/master/License.txt;
-exp;lr-puae;P-UAE Amiga emulator port for libretro;GPL2 https://raw.githubusercontent.com/libretro/PUAE/master/COPYING;
+opt;lr-puae;P-UAE Amiga emulator port for libretro;GPL2 https://raw.githubusercontent.com/libretro/PUAE/master/COPYING;
 exp;lr-px68k;SHARP X68000 Emulator;;
 exp;lr-quasi88;NEC PC-8801 emu - Quasi88 port for libretro;BSD https://raw.githubusercontent.com/libretro/quasi88-libretro/master/LICENSE;
 main;lr-quicknes;NES emulator - QuickNES Port for libretro;GPL2 https://raw.githubusercontent.com/libretro/QuickNES_Core/master/LICENSE;
@@ -138,7 +138,7 @@ exp;lr-theodore;Thomson MO/TO system emulator;GPL3 https://raw.githubusercontent
 opt;lr-tyrquake;Quake 1 engine - Tyrquake port for libretro;GPL2 https://raw.githubusercontent.com/libretro/tyrquake/master/gnu.txt;
 main;lr-vba-next;GBA emulator - VBA-M (optimised) port for libretro;GPL2 https://raw.githubusercontent.com/libretro/vba-next/master/LICENSE;
 main;lr-vecx;Vectrex emulator - vecx port for libretro;GPL3 https://raw.githubusercontent.com/libretro/libretro-vecx/master/LICENSE.md;
-exp;lr-vice;C64 emulator - port of VICE for libretro;GPL2 https://raw.githubusercontent.com/libretro/vice-libretro/master/vice/COPYING;
+opt;lr-vice;C64 emulator - port of VICE for libretro;GPL2 https://raw.githubusercontent.com/libretro/vice-libretro/master/vice/COPYING;
 exp;lr-virtualjaguar;Atari Jaguar emu - Virtual Jaguar (optimised) port for libretro;GPL3 https://raw.githubusercontent.com/libretro/virtualjaguar-libretro/master/docs/GPLv3;
 exp;lr-x1;Sharp X1 emulator - X Millenium port for libretro;;
 opt;lr-xrick;Open source implementation of Rich Dangerous - xrick ported for libretro;GPL https://raw.githubusercontent.com/libretro/xrick-libretro/master/README;
