@@ -19,7 +19,7 @@ exp;fs-uae;Amiga emulator - FS-UAE integrates the most accurate Amiga emulation 
 opt;fuse;ZX Spectrum emulator Fuse;GPL2 https://sourceforge.net/p/fuse-emulator/fuse/ci/master/tree/COPYING;
 opt;gngeopi;NeoGeo emulator GnGeoPi;NONCOM https://raw.githubusercontent.com/ymartel06/GnGeo-Pi/master/gngeo/COPYING;
 opt;gpsp;GameBoy Advance emulator;GPL2 https://raw.githubusercontent.com/gizmo98/gpsp/master/COPYING.DOC;
-opt;hatari;Atari emulator Hatari;GPL2 https://hg.tuxfamily.org/mercurialroot/hatari/hatari/file/9ee1235233e9/gpl.txt;
+opt;hatari;Atari emulator Hatari;GPL2 https://git.tuxfamily.org/hatari/hatari.git/plain/gpl.txt;
 opt;jzintv;Intellivision emulator;GPL2 http://spatula-city.org/%7Eim14u2c/intv/;
 opt;linapple;Apple 2 emulator LinApple;GPL2 https://raw.githubusercontent.com/dabonetn/linapple-pie/master/LICENSE;
 opt armv6=main;mame4all;MAME emulator MAME4All-Pi;NONCOM https://raw.githubusercontent.com/RetroPie/mame4all-pi/master/readme.txt;
