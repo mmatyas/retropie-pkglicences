@@ -161,7 +161,7 @@ opt;kodi;Kodi - Open source home theatre software;GPL2 https://raw.githubusercon
 opt;lincity-ng;lincity-ng - Open Source City Building Game;GPL2 https://raw.githubusercontent.com/lincity-ng/lincity-ng/master/COPYING;
 opt;love-0.10.2;Love - 2d Game Engine v0.10.2;ZLIB https://raw.githubusercontent.com/love2d/love/0.10.2/license.txt;
 opt;love;Love - 2d Game Engine;ZLIB https://raw.githubusercontent.com/love2d/love/master/license.txt;
-opt;lzdoom;lzdoom - DOOM source port (legacy version of GZDoom);GPL3 https://github.com/drfrag666/gzdoom/blob/g3.3mgw/docs/licenses/README.TXT;
+opt;lzdoom;lzdoom - DOOM source port (legacy version of GZDoom);GPL3 https://raw.githubusercontent.com/drfrag666/gzdoom/g3.3mgw/docs/licenses/README.TXT;
 opt;micropolis;Micropolis - Open Source City Building Game;GPL https://raw.githubusercontent.com/SimHacker/micropolis/wiki/License.md;
 exp;minecraft;Minecraft - Pi Edition;PROP;
 exp;mysticmine;Mystic Mine - Rail game for up to six players on one keyboard;MIT https://raw.githubusercontent.com/dewitters/MysticMine/master/LICENSE.txt;
