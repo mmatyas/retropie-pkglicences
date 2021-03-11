@@ -79,7 +79,7 @@ exp;lr-dolphin;Gamecube/Wii emulator - Dolphin port for libretro;GPL2 https://ra
 exp;lr-dosbox-pure;DOS emulator;GPL2 https://raw.githubusercontent.com/libretro/dosbox-pure/main/LICENSE;
 exp;lr-dosbox;DOS emulator;GPL2 https://raw.githubusercontent.com/libretro/dosbox-libretro/master/COPYING;
 opt armv6=main;lr-fbalpha2012;Arcade emu - Final Burn Alpha (0.2.97.30) port for libretro;NONCOM https://raw.githubusercontent.com/libretro/fbalpha2012/master/docs/license.txt;
-main armv6=opt;lr-fbneo;Arcade emu - FinalBurn Neo v1.0.0.01 (Upstream) port for libretro;NONCOM https://raw.githubusercontent.com/libretro/FBNeo/master/src/license.txt;
+main armv6=opt;lr-fbneo;Arcade emu - FinalBurn Neo (latest version) port for libretro;NONCOM https://raw.githubusercontent.com/libretro/FBNeo/master/src/license.txt;
 main;lr-fceumm;NES emu - FCEUmm port for libretro;GPL2 https://raw.githubusercontent.com/libretro/libretro-fceumm/master/Copying;
 opt;lr-flycast;Dreamcast emulator - Reicast port for libretro;GPL2 https://raw.githubusercontent.com/libretro/flycast/master/LICENSE;
 opt;lr-fmsx;MSX/MSX2 emu - fMSX port for libretro;NONCOM https://raw.githubusercontent.com/libretro/fmsx-libretro/master/LICENSE;
