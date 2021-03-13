@@ -56,7 +56,7 @@ opt;uae4all;Amiga emulator UAE4All;GPL2 https://raw.githubusercontent.com/RetroP
 opt;uae4arm;Amiga emulator with JIT support;GPL2;
 opt;vice;C64 emulator VICE;GPL2 http://svn.code.sf.net/p/vice-emu/code/trunk/vice/COPYING;
 exp;xm7;Fujitsu FM-7 series emulator;NONCOM https://raw.githubusercontent.com/nakatamaho/XM7-for-SDL/master/Doc/mess/license.txt;
-opt;xroar;Dragon / CoCo emulator XRoar;GPL2 http://www.6809.org.uk/xroar/;
+opt;xroar;Dragon / CoCo emulator XRoar;GPL3 http://www.6809.org.uk/xroar/;
 opt;zesarux;ZX Spectrum emulator ZEsarUX;GPL3 https://raw.githubusercontent.com/chernandezba/zesarux/master/src/LICENSE;
 exp;lr-81;Sinclair ZX81 emulator - EightyOne port for libretro;GPL3 https://raw.githubusercontent.com/libretro/81-libretro/master/LICENSE;
 main;lr-atari800;Atari 8-bit/800/5200 emulator - Atari800 port for libretro;GPL2 https://raw.githubusercontent.com/libretro/libretro-atari800/master/atari800/COPYING;
