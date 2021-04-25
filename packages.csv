@@ -187,6 +187,7 @@ exp;yquake2;yquake2 - The Yamagi Quake II client;GPL2 https://raw.githubusercont
 exp;attractmode;Attract Mode emulator frontend;GPL3 https://raw.githubusercontent.com/mickelson/attract/master/License.txt;
 config;audiosettings;Configure audio settings;;
 config;autostart;Auto-start Emulation Station / Kodi on boot;;
+config;backends;Configure display/driver backends for emulators;;
 config;bashwelcometweak;Bash Welcome Tweak (shows additional system info on login);;
 config;bluetooth;Configure Bluetooth Devices;;
 config;configedit;Edit RetroPie/RetroArch configurations;;
@@ -194,7 +195,6 @@ config;consolefont;Configure default console font size/type;;
 driver;controlblock;ControlBlock Driver;NONCOM https://raw.githubusercontent.com/petrockblog/ControlBlockService2/master/LICENSE.txt;
 driver;custombluez;Updated version of BlueZ Bluetooth stack;GPL2 http://www.bluez.org/faq/common/;
 driver;customhidsony;Custom hid-sony (Sony DualShock) driver with enhanced third-party controller support;;
-config;dispmanx;Configure emulators to use dispmanx SDL;;
 config;docsview;RetroPie-Setup Docs Viewer;;
 exp;emulationstation-dev;EmulationStation (latest development version) - Frontend used by RetroPie for launching emulators;MIT https://raw.githubusercontent.com/RetroPie/EmulationStation/master/LICENSE.md;
 core;emulationstation;EmulationStation - Frontend used by RetroPie for launching emulators;MIT https://raw.githubusercontent.com/RetroPie/EmulationStation/master/LICENSE.md;
