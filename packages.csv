@@ -23,7 +23,7 @@ opt;hatari;Atari emulator Hatari;GPL2 https://git.tuxfamily.org/hatari/hatari.gi
 opt;jzintv;Intellivision emulator;GPL2 http://spatula-city.org/%7Eim14u2c/intv/;
 opt;linapple;Apple 2 emulator LinApple;GPL2 https://raw.githubusercontent.com/dabonetn/linapple-pie/master/LICENSE;
 opt armv6=main;mame4all;MAME emulator MAME4All-Pi;NONCOM https://raw.githubusercontent.com/RetroPie/mame4all-pi/master/readme.txt;
-exp;mame;MAME emulator;GPL2 https://github.com/mamedev/mame/blob/master/COPYING;
+exp;mame;MAME emulator;GPL2 https://raw.githubusercontent.com/mamedev/mame/master/COPYING;
 exp;minivmac;Macintosh Plus Emulator;GPL2 https://raw.githubusercontent.com/vanfanel/minivmac_sdl2/master/COPYING.txt;
 main;mupen64plus;N64 emulator MUPEN64Plus;GPL2 https://raw.githubusercontent.com/mupen64plus/mupen64plus-core/master/LICENSES;
 exp;np2pi;NEC PC-9801 emulator;;
@@ -100,10 +100,10 @@ main armv6=opt;lr-mame2003;Arcade emu - MAME 0.78 port for libretro;NONCOM https
 opt;lr-mame2010;Arcade emu - MAME 0.139 port for libretro;NONCOM https://raw.githubusercontent.com/libretro/mame2010-libretro/master/docs/license.txt;
 exp;lr-mame2015;Arcade emu - MAME 0.160 port for libretro;NONCOM https://raw.githubusercontent.com/libretro/mame2015-libretro/master/docs/license.txt;
 exp;lr-mame2016;MAME emulator - MAME 0.174 port for libretro;GPL2 https://raw.githubusercontent.com/libretro/mame2016-libretro/master/LICENSE.md;
-exp;lr-mame;MAME emulator - MAME (current) port for libretro;GPL2 https://raw.githubusercontent.com/libretro/mame/master/LICENSE.md;
+exp;lr-mame;MAME emulator - MAME (current) port for libretro;GPL2 https://raw.githubusercontent.com/libretro/mame/master/COPYING;
 exp;lr-mesen;High-accuracy NES and Famicom emulator;GPL3 https://raw.githubusercontent.com/sourmesen/mesen/master/LICENSE;
 exp;lr-mess2016;MESS emulator - MESS Port for libretro;GPL2 https://raw.githubusercontent.com/libretro/mame2016-libretro/master/LICENSE.md;
-exp;lr-mess;MESS emulator - MESS Port for libretro;GPL2 https://raw.githubusercontent.com/libretro/mame/master/LICENSE.md;
+exp;lr-mess;MESS emulator - MESS Port for libretro;GPL2 https://raw.githubusercontent.com/libretro/mame/master/COPYING;
 main;lr-mgba;(Super) Game Boy Color/GBA emulator - MGBA (optimised) port for libretro;MPL2 https://raw.githubusercontent.com/libretro/mgba/master/LICENSE;
 opt;lr-mrboom;Mr.Boom - 8 players Bomberman clone for libretro.;MIT https://raw.githubusercontent.com/libretro/mrboom-libretro/master/LICENSE;
 opt kms=main;lr-mupen64plus-next;N64 emulator - Mupen64Plus + GLideN64 for libretro (next version);GPL2 https://raw.githubusercontent.com/libretro/mupen64plus-libretro-nx/master/LICENSE;
@@ -134,7 +134,7 @@ opt armv8=main x86=main;lr-snes9x;Super Nintendo emu - Snes9x (current) port for
 main;lr-stella2014;Atari 2600 emulator - Stella port for libretro;GPL2 https://raw.githubusercontent.com/libretro/stella2014-libretro/master/stella/license.txt;
 exp;lr-superflappybirds;Super Flappy Birds - Multiplayer Flappy Bird Clone;GPL3 https://raw.githubusercontent.com/IgniparousTempest/libretro-superflappybirds/master/LICENSE;
 opt;lr-tgbdual;Gameboy Color emu - TGB Dual port for libretro;GPL2 https://raw.githubusercontent.com/libretro/tgbdual-libretro/master/docs/COPYING-2.0.txt;
-exp;lr-theodore;Thomson MO/TO system emulator;GPL3 https://raw.githubusercontent.com/libretro/theodore/master/LICENSE;
+exp;lr-theodore;Thomson MO/TO system emulator;GPL3 https://raw.githubusercontent.com/Zlika/theodore/master/LICENSE;
 opt;lr-tyrquake;Quake 1 engine - Tyrquake port for libretro;GPL2 https://raw.githubusercontent.com/libretro/tyrquake/master/gnu.txt;
 main;lr-vba-next;GBA emulator - VBA-M (optimised) port for libretro;GPL2 https://raw.githubusercontent.com/libretro/vba-next/master/LICENSE;
 main;lr-vecx;Vectrex emulator - vecx port for libretro;GPL3 https://raw.githubusercontent.com/libretro/libretro-vecx/master/LICENSE.md;
@@ -169,7 +169,7 @@ exp;openblok;OpenBlok: A Block Dropping Game;GPL3 https://raw.githubusercontent.
 exp;openbor;OpenBOR - Beat 'em Up Game Engine;BSD https://raw.githubusercontent.com/rofl0r/openbor/master/LICENSE;
 exp;openpht;OpenPHT is a community driven fork of Plex Home Theater;GPL2 https://raw.githubusercontent.com/RasPlex/OpenPHT/openpht-1.7/LICENSE.GPL;
 opt;openttd;Open Source Simulator Based On Transport Tycoon Deluxe;GPL2 https://raw.githubusercontent.com/OpenTTD/OpenTTD/master/COPYING.md;
-opt;opentyrian;Open Tyrian - port of the DOS shoot-em-up Tyrian;GPL2 https://bitbucket.org/opentyrian/opentyrian/raw/3e3d6b925342a5891d8b937989dc50b563ff83dd/COPYING;
+opt;opentyrian;Open Tyrian - port of the DOS shoot-em-up Tyrian;GPL2 https://raw.githubusercontent.com/opentyrian/opentyrian/master/COPYING;
 opt;quake3;Quake 3;GPL2 https://raw.githubusercontent.com/raspberrypi/quake3/master/COPYING.txt;
 opt;sdlpop;SDLPoP - Port of Prince of Persia;GPL3 https://raw.githubusercontent.com/NagyD/SDLPoP/master/doc/gpl-3.0.txt;
 opt;smw;Super Mario War;GPL http://supermariowar.supersanctuary.net/;
